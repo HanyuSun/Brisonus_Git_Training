@@ -1,7 +1,7 @@
 # Brisonus_Git_Training 
 *Version：0.0.1*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;*配合华研慧声2020年内部《Git使用培训》使用，文中[这样的链接都是可以点的，如这个将打开百度搜索。](https://www.baidu.com)*  
+&nbsp;&nbsp;&nbsp;&nbsp;*配合华研慧声2020年内部《Git使用培训》使用，文中[这样的链接都是可以点的，如这个将打开百度搜索。](https://www.baidu.com)由于是跳转访问，建议右击在新选项卡中打开*  
 请详细阅读这个文档，根据文档指引完成如下工作：  
 - **下载Git并完成安装**
 - **用公司账号注册GitHub账号，并关注[彭博](https://github.com/FrankPeng2014/)** 
